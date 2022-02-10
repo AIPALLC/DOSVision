@@ -6,6 +6,8 @@
 
 DOSVision is a Distributed Denial of Service Detector &amp; Blocker created for hosted VPS Sites/Games/other. DOSVision is open-source, the source is currently licensed though but is completely **FREE** to use, modify. If you'd like to republish this, please credit me as this took a lot of time to make. DOSVision is known for it's Power, Protection and how it works. The Anti-DDOS can block up to **2-8 thousand** packets per second or more. The amount it blocks has an accelaration, for example you've reached 2,000 packets blocked; Now, it doubles the amount and goes up to **4,000 packets blocked per second** or over. In an hour, you can reach up to **a million packets blocked per second.**
 
+Version One preview:
+
 <a href="https://github.com/Pronner/DOSVision/releases" alt="DOSVision"><img src="https://media.discordapp.net/attachments/916226674071339010/936898038855794719/DOSVision_Preview.png?width=878&height=408" /></a>
 
 # Versions & Publishing
