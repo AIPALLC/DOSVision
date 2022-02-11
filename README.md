@@ -10,7 +10,7 @@ Version One preview:
 
 <a href="https://github.com/Pronner/DOSVision/releases" alt="DOSVision"><img src="https://media.discordapp.net/attachments/916226674071339010/936898038855794719/DOSVision_Preview.png?width=878&height=408" /></a>
 
-# <a href="https://discord.gg/pqJ8HWyWQr" alt="DOSVision Discord"><img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" width=38 height=32 /></a> Discord Server
+# <a href="https://discord.gg/pqJ8HWyWQr" alt="DOSVision Discord"><img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" width=60 height=32 /></a> Discord Server
 
 Want to join our community? Contribute to the project and add changes? Click [here](https://discord.gg/pqJ8HWyWQr).
 
