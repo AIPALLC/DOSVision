@@ -23,4 +23,4 @@ DOSVision includes multiple features to customize and improve your experience an
 <a href="https://github.com/Pronner/DOSVision/releases" alt="DOSVision"><img src="https://media.discordapp.net/attachments/916226674071339010/946674698421407744/unknown.png?width=578&height=408" /></a>
 
 # Contribution
-Contributing/adding/modifying the software is allowed, you may add some new updates to share with your own family/friends, please do not un-ethically modify this, otherwise you will be blacklisted. When I talk about ethical changes, you may add stuff like notifications once you get an attack, or get a discord webhook message.
+Contributing/adding to/modifying the software is allowed, you may add some new updates to share with your own family/friends, please do not un-ethically modify this, otherwise you will be blacklisted. When I talk about ethical changes, you may add stuff like notifications once you get an attack, or get a discord webhook message.
